@@ -2,6 +2,7 @@ A simple example demonstrating memory profiling in Python using the memory_profi
 The myFunction in the script is annotated with the @profile decorator from memory_profiler to measure memory usage during execution.
 
 Usage:
+
 Clone the repository:
 git clone [https://github.com/your-username/memory-profiling-example.git](https://github.com/William2716057/memProfile)
 
