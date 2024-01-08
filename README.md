@@ -7,7 +7,9 @@ Clone the repository:
 git clone [https://github.com/your-username/memory-profiling-example.git](https://github.com/William2716057/memProfile)
 
 Navigate to the project directory:
+
 cd memory-profiling-example
 
 Run the script:
+
 python -m memory_profiler script.py
